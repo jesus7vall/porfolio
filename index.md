@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Esto es un profolio
 layout: home
 ---
 
